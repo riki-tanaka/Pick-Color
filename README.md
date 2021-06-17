@@ -60,12 +60,10 @@ Add any other context or screenshots about the feature request here.
 
 ### Contact
 > Let's Become Friend 
-- [Twitter](https://twitter.com/varshney_vidit)
-- [Github](https://github.com/viditvarshney)
-- [Facebook](https://www.facebook.com/vidit.varshney222)
-- [Linkedin](https://www.linkedin.com/in/vidit-varshney/)
+- [Github](https://github.com/riki-tanaka)
+- [Linkedin](https://www.linkedin.com/in/riki-tanaka-312b43214/)
 
 ***
 
 ### LICENSE
-> This Project [Pick-Color](https://github.com/viditvarshney/Pick-Color) Licenced under [GNU](https://github.com/viditvarshney/Pick-Color/blob/master/LICENSE)
+> This Project [Pick-Color](https://github.com/riki-tanaka/Pick-Color) Licenced under [GNU](https://github.com/riki-tanaka/Pick-Color/blob/master/LICENSE)
